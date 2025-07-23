@@ -11,7 +11,7 @@
 - 🎓 Final-year B.Tech student at **Shivalik College of Engineering**
 - 💻 Passionate about **Web Development** using the **MERN stack (MongoDB, Express, React, Node.js)**
 - 🚀 I love building full-stack apps that solve real-world problems
-- 🧠 Currently learning: **TypeScript, Docker, CI/CD**
+- 🧠 Currently learning: **JavaScript, c++**
 - ⚽ A sports enthusiast — believe in teamwork, leadership, and discipline
 
 ---
